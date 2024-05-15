@@ -20,3 +20,6 @@ def paint_triangle_button(len_triangle):
 def paint_circle_button(len_circle):
     t1.circle(len_circle)
 
+
+main_win.mainloop()
+
